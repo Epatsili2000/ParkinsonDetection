@@ -16,9 +16,9 @@ pip install librosa soundfile praat-parselmouth pandas scikit-learn joblib tqdm
 2. Update `ROOT` path in each notebook to point to your data.
 3. Run notebooks in order:
          DataPre&Extraction
-         Create_spectogram
-         Split_dataset
-         Baseline_Classifiers
+         Create_Spectogram
+         SplitDataset
+         Baseline_classifiers
          cnn_training
          LSTM_MFCC
 5. Review plots and evaluation metrics.
