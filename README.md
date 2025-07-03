@@ -15,7 +15,13 @@ pip install librosa soundfile praat-parselmouth pandas scikit-learn joblib tqdm
 1. Download the PC-GITA dataset from [source].
 2. Update `ROOT` path in each notebook to point to your data.
 3. Run notebooks in order:
-4. Review plots and evaluation metrics.
+         DataPre&Extraction
+         Create_spectogram
+         Split_dataset
+         Baseline_Classifiers
+         cnn_training
+         LSTM_MFCC
+5. Review plots and evaluation metrics.
 
 ## License
 
