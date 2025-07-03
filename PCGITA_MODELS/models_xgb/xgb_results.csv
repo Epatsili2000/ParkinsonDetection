@@ -1,0 +1,6 @@
+fold,accuracy,auc,recall,precision,best_params
+1,0.9222222222222223,0.981554347826087,0.935,0.9420654911838791,"{'colsample_bytree': 0.8, 'gamma': 1, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0, 'reg_lambda': 2, 'subsample': 0.8}"
+2,0.919047619047619,0.9790434782608697,0.94,0.9330024813895782,"{'colsample_bytree': 0.8, 'gamma': 1, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0, 'reg_lambda': 2, 'subsample': 0.8}"
+3,0.9095238095238095,0.9664130434782608,0.92,0.9363867684478372,"{'colsample_bytree': 0.8, 'gamma': 1, 'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200, 'reg_alpha': 0, 'reg_lambda': 1, 'subsample': 0.8}"
+4,0.9222222222222223,0.9737826086956521,0.9475,0.9312039312039312,"{'colsample_bytree': 0.8, 'gamma': 1, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 2, 'subsample': 0.8}"
+5,0.9077901430842608,0.9699139152228398,0.9473684210526315,0.9108433734939759,"{'colsample_bytree': 0.8, 'gamma': 0, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 1, 'subsample': 0.8}"
